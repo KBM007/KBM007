@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KBM007
+- 👋 Hi, I’m kalyanbrata
 - 👀 I’m interested in Machine Learning, Deep Learning & NLP
 - 🌱 I’m currently working as a Senior Data Analyst with Infosys BPM
 - 💞️ I’m learning MLOps, Azure, ..
